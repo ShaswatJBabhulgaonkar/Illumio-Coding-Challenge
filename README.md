@@ -19,9 +19,7 @@ given rules are equal or not.
 
 ### Refinements
 
-For the above implementation, I am iteraring through a set of rules every time. Inorder to check whether a given packet is valid or not, I would rather 
-like to design a data structure where a certain rule corresponds to a specific value and a given packet can be matched against it in 
-order to improve linear time complexity.
+For the above implementation, I am iterating through a set of rules every time. Inorder to check whether a given packet is valid or not, I would rather like to design a data structure where a certain rule corresponds to a specific value and a given packet can be matched against it in order to improve linear time complexity.
 
 ### Team Interest
 I would be particularly interested in working with the Data team.
